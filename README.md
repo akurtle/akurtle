@@ -19,6 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000000?style=flat&logo=bootstrap&logoColor=6933FF)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=Firebase&logoColor=23039BE5)
 ![Postgres](https://img.shields.io/badge/postgres-000000?style=flat&logo=postgresql&logoColor=23316192)
+![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=flat)
 
 **Web/Full Stack projects**
 
