@@ -19,7 +19,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000000?style=flat&logo=bootstrap&logoColor=6933FF)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=Firebase&logoColor=23039BE5)
 ![Postgres](https://img.shields.io/badge/postgres-000000?style=flat&logo=postgresql&logoColor=23316192)
-![EJS](https://img.shields.io/badge/<%ejs%>-EJS-000000?style=flat&logo=EJS&logoColor=000000&labelColor=8A2BE2&color=000000)
+![EJS](https://img.shields.io/badge/%3C%25%3E-EJS-000000?style=flat&logo=EJS&logoColor=000000&labelColor=8A2BE2&color=000000)
 
 **Web/Full Stack projects**
 
