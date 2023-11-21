@@ -18,6 +18,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=flat&logo=tailwind-css&logoColor=231287B1)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000000?style=flat&logo=bootstrap&logoColor=6933FF)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=Firebase&logoColor=23039BE5)
+![Postgres](https://img.shields.io/badge/postgres-000000?style=flat&logo=postgresql&logoColor=23316192)
 
 **Web/Full Stack projects**
 
