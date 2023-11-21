@@ -18,7 +18,7 @@
 
 **Web/Full Stack projects**
 
-[![My Website](https://img.shields.io/badge/PersonalSite)](https://github.com/akurtle/Personal-Site)
+[![My Website](https://img.shields.io/badge/Personal_Site-_)](https://github.com/akurtle/Personal-Site)
 
 
 
