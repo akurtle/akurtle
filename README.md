@@ -16,8 +16,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-000000?style=flat&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=Firebase&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-000000?style=flat&logo=bootstrap&logoColor=6933FF)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=Firebase&logoColor=039BE5)
 
 **Web/Full Stack projects**
 
