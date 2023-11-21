@@ -17,6 +17,7 @@
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-000000?style=flat&logo=bootstrap&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=Firebase&logoColor=white)
 
 **Web/Full Stack projects**
 
