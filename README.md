@@ -26,6 +26,8 @@
 
 [![My Website](https://img.shields.io/badge/Personal_Site-_)](https://github.com/akurtle/Personal-Site)
 
+[![Weather Website](https://img.shields.io/badge/Weather_Forecast-_?label=%F0%9F%8C%B1&labelColor=black)](https://github.com/akurtle/WeatherForeCast)
+
 
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=akurtle&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=akurtle&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
