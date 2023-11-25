@@ -28,7 +28,7 @@
 
 🌱[![Weather Website](https://img.shields.io/badge/Weather_Forecast-_)](https://github.com/akurtle/WeatherForeCast)
 
-⭐️[![E Commerce Site](https://img.shields.io/badge/E_Commerce_Site-_)](https://github.com/akurtle/E-commerce-Site)
+🛒[![E Commerce Site](https://img.shields.io/badge/E_Commerce_Site-_)](https://github.com/akurtle/E-commerce-Site)
 
 
 
