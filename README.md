@@ -21,7 +21,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=Firebase&logoColor=23039BE5)
 ![Postgres](https://img.shields.io/badge/postgres-000000?style=flat&logo=postgresql&logoColor=23316192)
 ![EJS](https://img.shields.io/badge/%3C%25%3E-EJS-000000?style=flat&logo=EJS&logoColor=000000&labelColor=000000&color=000000)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=000000)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 
 **Web projects**
 
