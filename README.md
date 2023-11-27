@@ -22,7 +22,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-000000?style=flat&logo=postgresql&logoColor=23316192)
 ![EJS](https://img.shields.io/badge/%3C%25%3E-EJS-000000?style=flat&logo=EJS&logoColor=000000&labelColor=000000&color=000000)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-000000?style=flat&logo=react&logoColor=%2361DAFB)
 
 **Web projects**
 
