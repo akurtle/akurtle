@@ -31,5 +31,7 @@
 
 🛒[![E Commerce Site](https://img.shields.io/badge/E_Commerce_Site-_)](https://github.com/akurtle/E-commerce-Site)
 
+📱[![Job App](https://img.shields.io/badge/Job_App-_)](https://github.com/akurtle/JobApp)
+
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=akurtle&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
