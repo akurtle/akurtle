@@ -34,5 +34,10 @@
 
 📱[![Job App](https://img.shields.io/badge/Job_App-_)](https://github.com/akurtle/JobApp)
 
+**Games**
+
+🐦[![Flappy Bird Clone](https://img.shields.io/badge/Flappy_Bird_Clone-green)](https://github.com/akurtle/FlappyBirdClone)
+
+
 
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=akurtle&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
