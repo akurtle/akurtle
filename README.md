@@ -32,6 +32,8 @@
 
 🛒[![E Commerce Site](https://img.shields.io/badge/E_Commerce_Site-_)](https://github.com/akurtle/E-commerce-Site)
 
+**Mobile projects**
+
 📱[![Job App](https://img.shields.io/badge/Job_App-_)](https://github.com/akurtle/JobApp)
 
 **Games**
