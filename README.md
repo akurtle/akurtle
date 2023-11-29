@@ -36,7 +36,7 @@
 
 **Mobile projects**
 
-📱[![Job App](https://img.shields.io/badge/Job_App-_)](https://github.com/akurtle/JobApp)
+📱[![Job App](https://img.shields.io/badge/Job_App-blue)](https://github.com/akurtle/JobApp)
 
 **Games**
 
