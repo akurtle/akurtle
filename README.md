@@ -40,7 +40,7 @@
 
 **Machine Learning**
 
-⚙️![Wine Quality Analysis](https://img.shields.io/badge/Wine_Quality-gray)](Private Repo)
+⚙️![Wine Quality Analysis](https://img.shields.io/badge/Wine_Quality-gray)(Private Repo)
 
 
 **Games**
