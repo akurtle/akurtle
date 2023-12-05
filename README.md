@@ -38,6 +38,11 @@
 
 📱[![Job App](https://img.shields.io/badge/Job_App-blue)](https://github.com/akurtle/JobApp)
 
+**Machine Learning**
+
+⚙️![Wine Quality Analysis](https://img.shields.io/badge/Wine_Quality-gray)](Private Repo)
+
+
 **Games**
 
 🐦[![Flappy Bird Clone](https://img.shields.io/badge/Flappy_Bird_Clone-green)](https://github.com/akurtle/FlappyBirdClone)
