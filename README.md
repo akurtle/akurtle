@@ -49,4 +49,6 @@
 
 🎲![Cant Stop Board Game](https://img.shields.io/badge/Cant_Stop-green)(Private Repo)
 
+⌗ [![Sodoku / Solver](https://img.shields.io/badge/Sodoku-green)](https://github.com/akurtle/Sodoku)
+
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=akurtle&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
