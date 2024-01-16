@@ -42,6 +42,7 @@
 
 ⚙️![Wine Quality Analysis](https://img.shields.io/badge/Wine_Quality-gray)(Private Repo)
 
+⚪![Connect Four AI)](https://img.shields.io/badge/Connect_Four_AI-gray)(Private Repo)
 
 **Games**
 
