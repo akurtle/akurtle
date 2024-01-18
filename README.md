@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![CSS](https://img.shields.io/badge/css3-000000?logo=css&logoColor=blue)
+![CSS](https://img.shields.io/badge/css3-000000?logo=css3&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
 **Some of the technologies I have worked with**
