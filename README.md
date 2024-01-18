@@ -38,11 +38,13 @@
 
 📱[![Job App](https://img.shields.io/badge/Job_App-blue)](https://github.com/akurtle/JobApp)
 
-**Machine Learning**
+**Machine Learning/AI**
 
 ⚙️![Wine Quality Analysis](https://img.shields.io/badge/Wine_Quality-gray)(Private Repo)
 
 ⚪![Connect Four AI)](https://img.shields.io/badge/Connect_Four_AI-gray)(Private Repo)
+
+𖣯![Grid search algorithms](https://img.shields.io/badge/Grid_search-gray)(Private Repo)
 
 **Games**
 
