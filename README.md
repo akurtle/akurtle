@@ -34,6 +34,8 @@
 
 📝[![Blog](https://img.shields.io/badge/Blog-_)](https://github.com/akurtle/BlogReact)
 
+💭[![Thoughts](https://img.shields.io/badge/Thoughts-_)](https://github.com/akurtle/Thoughts)
+
 **Mobile projects**
 
 📱[![Job App](https://img.shields.io/badge/Job_App-blue)](https://github.com/akurtle/JobApp)
