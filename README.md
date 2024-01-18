@@ -44,7 +44,7 @@
 
 ⚪![Connect Four AI)](https://img.shields.io/badge/Connect_Four_AI-gray)(Private Repo)
 
-𖣯![Grid search algorithms](https://img.shields.io/badge/Grid_search-gray)(Private Repo)
+🏁![Grid search algorithms](https://img.shields.io/badge/Grid_search-gray)(Private Repo)
 
 **Games**
 
