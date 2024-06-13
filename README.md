@@ -48,6 +48,8 @@
 
 🏁![Grid search algorithms](https://img.shields.io/badge/Grid_search-gray)(Private Repo)
 
+😊[![FaceRecognition](https://img.shields.io/badge/FaceRecognition-gray)](https://github.com/akurtle/FaceRecognition)
+
 **Games**
 
 🐦[![Flappy Bird Clone](https://img.shields.io/badge/Flappy_Bird_Clone-green)](https://github.com/akurtle/FlappyBirdClone)
