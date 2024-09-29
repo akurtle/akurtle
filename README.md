@@ -26,7 +26,7 @@
 
 **Web projects**
 
-⭐️[![My Website](https://github.com/akurtle/Personal_site)](https://github.com/akurtle/Personal-Site)
+⭐️[![My Website](https://img.shields.io/badge/Personal_Site-_)]([https://github.com/akurtle/Personal-Site](https://github.com/akurtle/Personal_site))
 
 🌱[![Weather Website](https://img.shields.io/badge/Weather_Forecast-_)](https://github.com/akurtle/WeatherForeCast)
 
