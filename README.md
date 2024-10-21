@@ -28,8 +28,6 @@
 
 ⭐️[![My Website](https://img.shields.io/badge/Personal_Site-_)](https://github.com/akurtle/Personal_site)
 
-🌱[![Weather Website](https://img.shields.io/badge/Weather_Forecast-_)](https://github.com/akurtle/WeatherForeCast)
-
 🛒[![E Commerce Site](https://img.shields.io/badge/E_Commerce_Site-_)](https://github.com/akurtle/E-commerce-Site)
 
 📝[![Blog](https://img.shields.io/badge/Blog-_)](https://github.com/akurtle/BlogReact)
@@ -51,6 +49,8 @@
 😊[![FaceRecognition](https://img.shields.io/badge/FaceRecognition-gray)](https://github.com/akurtle/FaceRecognition)
 
 **Games**
+
+🎮[![Mario Clone](https://img.shields.io/badge/Mario_Clone-green)](Private Repo)
 
 🐦[![Flappy Bird Clone](https://img.shields.io/badge/Flappy_Bird_Clone-green)](https://github.com/akurtle/FlappyBirdClone)
 
