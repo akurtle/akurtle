@@ -50,7 +50,7 @@
 
 **Games**
 
-🎮[![Mario Clone](https://img.shields.io/badge/Mario_Clone-green)](Private Repo)
+🎮![Mario Clone](https://img.shields.io/badge/Mario_Clone-green)(Private Repo)
 
 🐦[![Flappy Bird Clone](https://img.shields.io/badge/Flappy_Bird_Clone-green)](https://github.com/akurtle/FlappyBirdClone)
 
