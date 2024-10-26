@@ -33,7 +33,7 @@
 
 📝[![Blog](https://img.shields.io/badge/Blog-_)](https://github.com/akurtle/BlogReact)
 
-🎓[![LearnDSA](https://img.shields.io/badge/LearnDSA-_)](https://github.com/akurtle/)
+🎓[![LearnDSA](https://img.shields.io/badge/LearnDSA-_)](https://github.com/akurtle/LearnDSA)
 
 💭[![Thoughts](https://img.shields.io/badge/Thoughts-_)](https://github.com/akurtle/Thoughts)
 
