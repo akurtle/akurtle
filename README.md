@@ -49,6 +49,8 @@
 
 🏁![Grid search algorithms](https://img.shields.io/badge/Grid_search-gray)(Private Repo)
 
+🍄![Fungi Classification](https://img.shields.io/badge/Fungi_Classification-gray)(Private Repo)
+
 😊[![FaceRecognition](https://img.shields.io/badge/FaceRecognition-gray)](https://github.com/akurtle/FaceRecognition)
 
 **Games**
