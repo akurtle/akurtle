@@ -43,7 +43,7 @@
 
 **Machine Learning/AI**
 
-⚙️![Wine Quality Analysis](https://img.shields.io/badge/Wine_Quality-gray)(Private Repo)
+⚙️[![Wine Quality Analysis](https://img.shields.io/badge/Wine_Quality-gray)](https://github.com/akurtle/Wine-Quality-Analysis)
 
 ⚪![Connect Four AI)](https://img.shields.io/badge/Connect_Four_AI-gray)(Private Repo)
 
