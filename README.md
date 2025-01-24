@@ -65,4 +65,6 @@
 
 🧑[![Portfolio-game](https://img.shields.io/badge/Portfolio_Game-green)](https://github.com/akurtle/portfolio-game)
 
+🎮[![DeadLands Game](https://img.shields.io/badge/DeadLands_Game-green)(COMP 4304 Project)]
+
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=akurtle&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
