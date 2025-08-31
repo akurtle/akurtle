@@ -56,7 +56,7 @@
 
 **Games**
 
-🎮![GeoNauts-MissionMoon](https://img.shields.io/badge/Mario_Clone-green)(Private Repo)
+🎮![GeoNauts-MissionMoon](https://img.shields.io/badge/GeoNauts:MissionMoon-green)(Private Repo)
 
 🎮![Mario Clone](https://img.shields.io/badge/Mario_Clone-green)(Private Repo)
 
