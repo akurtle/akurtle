@@ -38,6 +38,8 @@
 
 💭[![Thoughts](https://img.shields.io/badge/Thoughts-_)](https://github.com/akurtle/Thoughts)
 
+📝[![Auto-Emailer](https://img.shields.io/badge/Auto_Emailer-_)](https://github.com/akurtle/auto-emailer)
+
 **Mobile projects**
 
 📱[![Job App](https://img.shields.io/badge/Job_App-blue)](https://github.com/akurtle/JobApp)
