@@ -61,17 +61,15 @@
 
 😊[![FaceRecognition](https://img.shields.io/badge/FaceRecognition-gray)](https://github.com/akurtle/FaceRecognition)
 
+🌍![Earth Orbit Visualizer](https://img.shields.io/badge/EarthOrbitVisualizer-gray)(Private Repo)
+
 **Games**
 
-🎮![GeoNauts-MissionMoon](https://img.shields.io/badge/GeoNauts:MissionMoon-green)(Private Repo)
+🎮![GeoNauts-MissionMoon](https://img.shields.io/badge/GeoNauts:MissionMoon-green)(Private Repo
 
-🎮![Mario Clone](https://img.shields.io/badge/Mario_Clone-green)(Private Repo)
-
-🐦[![Flappy Bird Clone](https://img.shields.io/badge/Flappy_Bird_Clone-green)](https://github.com/akurtle/FlappyBirdClone)
+🎮![SpaceMaze](https://img.shields.io/badge/SpaceMaze-green)(Private Repo)
 
 🎲![Cant Stop Board Game](https://img.shields.io/badge/Cant_Stop-green)(Private Repo)
-
-⌗ [![Sodoku / Solver](https://img.shields.io/badge/Sodoku-green)](https://github.com/akurtle/Sodoku)
 
 🧑[![Portfolio-game](https://img.shields.io/badge/Portfolio_Game-green)](https://github.com/akurtle/portfolio-game)
 
