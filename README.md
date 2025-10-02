@@ -9,7 +9,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![CSS](https://img.shields.io/badge/css3-000000?logo=css3&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=C#)
+![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=white)
+
 
 **Some of the technologies I have worked with**
 
