@@ -66,7 +66,7 @@
 
 **Games**
 
-🎮![GeoNauts-MissionMoon](https://img.shields.io/badge/GeoNauts:MissionMoon-green)(Private Repo
+🎮![GeoNauts-MissionMoon](https://img.shields.io/badge/GeoNauts:MissionMoon-green)(Private Repo) A game for the Johnson Geo Centre!
 
 🎮![SpaceMaze](https://img.shields.io/badge/SpaceMaze-green)(Private Repo)
 
