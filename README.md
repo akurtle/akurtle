@@ -75,4 +75,4 @@
 🎮[![DeadLands Game](https://img.shields.io/badge/DeadLands_Game-green)](https://www.youtube.com/watch?v=Sk4szidOjIM)(COMP 4304 Project)
 
 
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=akurtle&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+<!-- <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=akurtle&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" /> -->
