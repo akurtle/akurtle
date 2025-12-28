@@ -26,6 +26,9 @@
 ![EJS](https://img.shields.io/badge/%3C%25%3E-EJS-000000?style=flat&logo=EJS&logoColor=000000&labelColor=000000&color=000000)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-000000?style=flat&logo=react&logoColor=%2361DAFB)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat&logo=redis&logoColor=DC382D)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=FF9900)
+
 
 **Web projects**
 
