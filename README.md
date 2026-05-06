@@ -101,10 +101,14 @@
 
 ## 💼 Experience
 
-- **Software Developer** . Learning Disabilities Association of Newfoundland and Labrador — Built several games in Godot/Phaser.js integrating them in a website and with supabase to track metrics 
-- **Game Developer** · Johnson Geo Centre — Built *GeoNauts: Mission Moon*, a multi-level iPadOS space game in Unity/C# with full ownership over design, story, and technical stack
-- **Web Developer** · Placentia Welcome Centre — Delivered a responsive hall-booking and space-rental website in WordPress/Elementor
-- **Front-End Intern** · AppLab *(Jul–Sep 2024)* — React-based UI development
+- **Software Developer**
+  - Learning Disabilities Association of Newfoundland and Labrador — Built several games in Godot/Phaser.js integrating them in a website and with supabase to track metrics 
+- **Game Developer**
+  -  Johnson Geo Centre — Built *GeoNauts: Mission Moon*, a multi-level iPadOS space game in Unity/C# with full ownership over design, story, and technical stack
+- **Web Developer**
+  -  Placentia Welcome Centre — Delivered a responsive hall-booking and space-rental website in WordPress/Elementor
+- **Front-End Intern**
+  - AppLab *(Jul–Sep 2024)* — React-based UI development
 
 ---
 
