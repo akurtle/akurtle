@@ -1,83 +1,120 @@
-**Languages I have used**
+<h1 align="center">Hi 👋, I'm Yousuf</h1>
+<h3 align="center">Full-Stack Developer · AI/ML Enthusiast · CS Graduate</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.realtimeeditor.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Project-realtimeeditor.xyz-000000?style=flat"/>
+  </a>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 CS Honours Graduate from **Memorial University of Newfoundland**
+- 🔭 Currently building an **AI-powered interview & speech practice platform** with WebRTC + real-time transcription
+- 🎮 Built **GeoNauts: Mission Moon** for the Johnson Geo Centre (Unity/C#/iPadOS)
+- 🌐 Freelance web developer with shipped client projects
+- 💬 Ask me about full-stack dev, AWS deployment, or real-time apps
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Web
+| Project | Description | Stack |
+|---|---|---|
+| 💻 [Real Time Coder](https://www.realtimeeditor.xyz/) | Live collaborative code editor | React, WebSockets, Node.js |
+| 🤖 [AI Interview Platform](https://github.com/akurtle/TalkitoutAI) | Real-time speech coaching with AI feedback, STT, and WebRTC | React, FastAPI, WebRTC, Whisper |
+| 💳 [Fraud Pattern Analyzer](https://github.com/akurtle/FraudAnalyzer) | Anomaly detection on transaction data with ETL pipelines | Astro, React, FastAPI, Airflow, PostgreSQL |
+| 🌐 [Rate My Site](https://rate-my-site.netlify.app/) | AI-powered website feedback tool | React, Node.js |
+| 🛍️ [E-Commerce Site](https://github.com/akurtle/E-commerce-Site) | Full-featured e-commerce storefront | Node.js, EJS, PostgreSQL |
+| 📝 [Auto-Emailer](https://github.com/akurtle/auto-emailer) | Automated email outreach tool | Node.js |
+| 💭 [Thoughts](https://github.com/akurtle/Thoughts) | Social blogging platform | React, Node.js |
+
+### 📱 Mobile
+| Project | Description | Stack |
+|---|---|---|
+| 📱 [Job App](https://github.com/akurtle/JobApp) | Job search & tracking app | React Native, Expo |
+| 🥾 [Trail Mark](https://github.com/akurtle/TrailMark) | Hiking trail tracker with maps | React Native, Expo |
+
+### 🤖 Machine Learning / AI
+| Project | Description |
+|---|---|
+| 😊 [Face Recognition](https://github.com/akurtle/FaceRecognition) | Real-time face detection & recognition |
+| 🍷 [Wine Quality Analysis](https://github.com/akurtle/Wine-Quality-Analysis) | ML classification on wine dataset |
+| 🍄 Fungi Classification *(Private)* | Image classification model |
+| ⚪ Connect Four AI *(Private)* | Minimax-based game AI |
+| 🌍 Earth Orbit Visualizer *(Private)* | Orbital mechanics visualization |
+| 🏁 Grid Search Algorithms *(Private)* | Pathfinding algorithm visualizer |
+
+### 🎮 Games
+| Project | Description | Stack |
+|---|---|---|
+| 🚀 GeoNauts: Mission Moon *(Private)* | iPadOS space game for Johnson Geo Centre | Unity, C# |
+| 💀 [DeadLands](https://www.youtube.com/watch?v=Sk4szidOjIM) | COMP 4304 3D game project | Unity, C# |
+| 🎲 Can't Stop *(Private)* | Digital board game | Java |
+| 🧑 [Portfolio Game](https://github.com/akurtle/portfolio-game) | Interactive portfolio as a game | Unity/JS |
+| 🌌 SpaceMaze *(Private)* | Procedural maze game | Unity, C# |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/java-000000?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![CSS](https://img.shields.io/badge/css3-000000?logo=css3&logoColor=blue)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?logo=css3&logoColor=blue)
 
+**Frameworks & Tools**
 
-**Some of the technologies I have worked with**
-
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
-![Node JS](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=flat&logo=tailwind-css&logoColor=231287B1)
-![Bootstrap](https://img.shields.io/badge/bootstrap-000000?style=flat&logo=bootstrap&logoColor=6933FF)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=Firebase&logoColor=23039BE5)
-![Postgres](https://img.shields.io/badge/postgres-000000?style=flat&logo=postgresql&logoColor=23316192)
-![EJS](https://img.shields.io/badge/%3C%25%3E-EJS-000000?style=flat&logo=EJS&logoColor=000000&labelColor=000000&color=000000)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-000000?style=flat&logo=react&logoColor=%2361DAFB)
-![Redis](https://img.shields.io/badge/Redis-000000?style=flat&logo=redis&logoColor=DC382D)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi&logoColor=009688)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwind-css&logoColor=38BDF8)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=2496ED)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=316192)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat&logo=redis&logoColor=DC382D)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=Firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat&logo=supabase&logoColor=3ECF8E)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
+---
 
-**Web projects**
+## 💼 Experience
 
-💻[![Real Time Coder](https://img.shields.io/badge/Real_Time_Coder-_)](https://www.realtimeeditor.xyz/)
+- **Software Developer** . Learning Disabilities Association of Newfoundland and Labrador — Built several games in Godot/Phaser.js integrating them in a website and with supabase to track metrics 
+- **Game Developer** · Johnson Geo Centre — Built *GeoNauts: Mission Moon*, a multi-level iPadOS space game in Unity/C# with full ownership over design, story, and technical stack
+- **Web Developer** · Placentia Welcome Centre — Delivered a responsive hall-booking and space-rental website in WordPress/Elementor
+- **Front-End Intern** · AppLab *(Jul–Sep 2024)* — React-based UI development
 
-⭐️[![My Website](https://img.shields.io/badge/Personal_Site-_)](https://github.com/akurtle/Personal_site)
+---
 
-🛒[![E Commerce Site](https://img.shields.io/badge/E_Commerce_Site-_)](https://github.com/akurtle/E-commerce-Site)
+## 📊 GitHub Stats
 
-📝[![Blog](https://img.shields.io/badge/Blog-_)](https://github.com/akurtle/BlogReact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akurtle&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akurtle&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
 
-💭[![Thoughts](https://img.shields.io/badge/Thoughts-_)](https://github.com/akurtle/Thoughts)
+---
 
-📝[![Auto-Emailer](https://img.shields.io/badge/Auto_Emailer-_)](https://github.com/akurtle/auto-emailer)
-
-**Mobile projects**
-
-📱[![Job App](https://img.shields.io/badge/Job_App-blue)](https://github.com/akurtle/JobApp)
-
-📱[![Trail Mark](https://img.shields.io/badge/Trail_Mark-blue)](https://github.com/akurtle/TrailMark)
-
-
-
-
-**Machine Learning/AI**
-
-⚙️[![Wine Quality Analysis](https://img.shields.io/badge/Wine_Quality-gray)](https://github.com/akurtle/Wine-Quality-Analysis)
-
-⚪![Connect Four AI)](https://img.shields.io/badge/Connect_Four_AI-gray)(Private Repo)
-
-🏁![Grid search algorithms](https://img.shields.io/badge/Grid_search-gray)(Private Repo)
-
-🍄![Fungi Classification](https://img.shields.io/badge/Fungi_Classification-gray)(Private Repo)
-
-😊[![FaceRecognition](https://img.shields.io/badge/FaceRecognition-gray)](https://github.com/akurtle/FaceRecognition)
-
-🌍![Earth Orbit Visualizer](https://img.shields.io/badge/EarthOrbitVisualizer-gray)(Private Repo)
-
-**Games**
-
-🎮![GeoNauts-MissionMoon](https://img.shields.io/badge/GeoNauts:MissionMoon-green)(Private Repo) A game for the Johnson Geo Centre!
-
-🎮![SpaceMaze](https://img.shields.io/badge/SpaceMaze-green)(Private Repo)
-
-🎲![Cant Stop Board Game](https://img.shields.io/badge/Cant_Stop-green)(Private Repo)
-
-🧑[![Portfolio-game](https://img.shields.io/badge/Portfolio_Game-green)](https://github.com/akurtle/portfolio-game)
-
-🎮[![DeadLands Game](https://img.shields.io/badge/DeadLands_Game-green)](https://www.youtube.com/watch?v=Sk4szidOjIM)(COMP 4304 Project)
-
-
-<!-- <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=akurtle&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" /> -->
+<p align="center">⭐ If you like what you see, consider starring a repo!</p>
