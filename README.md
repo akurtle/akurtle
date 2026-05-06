@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yousuf</h1>
+<h1 align="center">Hello! I'm Mirza Yousuf</h1>
 <h3 align="center">Full-Stack Developer · AI/ML Enthusiast · CS Graduate</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/mirza-yousuf-myzab/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:myzbaig@mun.ca">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.realtimeeditor.xyz" target="_blank">
@@ -105,15 +105,6 @@
 - **Game Developer** · Johnson Geo Centre — Built *GeoNauts: Mission Moon*, a multi-level iPadOS space game in Unity/C# with full ownership over design, story, and technical stack
 - **Web Developer** · Placentia Welcome Centre — Delivered a responsive hall-booking and space-rental website in WordPress/Elementor
 - **Front-End Intern** · AppLab *(Jul–Sep 2024)* — React-based UI development
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akurtle&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akurtle&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
 
 ---
 
